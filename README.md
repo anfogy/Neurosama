@@ -4,7 +4,7 @@
   
 ----
 
-[![](https://img.shields.io/badge/Vedal-1.2k%20folowers-black?logo=github)](https://github.com/Vedal987)
+[![](https://img.shields.io/badge/Vedal-1.2k%20followers-black?logo=github)](https://github.com/Vedal987)
 [![](https://dcbadge.vercel.app/api/shield/789492161581416478?style=flat)](https://discord.com/users/789492161581416478)
 [![](https://dcbadge.vercel.app/api/server/neurosama?style=flat)](https://discord.gg/neurosama)
 ![](https://img.shields.io/badge/Active_users-6-limegreen)
