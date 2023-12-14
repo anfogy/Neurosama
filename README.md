@@ -1,11 +1,14 @@
 <div align="center">
    <img width="130" src="images/Neuro_logo.png" alt="title"><br>
-   <img width="190" src="images/Neuro_nya.PNG" alt="logo">
+   <img width="200" src="images/Neuro_nya.PNG" alt="logo">
   
 ----
-  
+
+[![](https://img.shields.io/badge/Vedal-1.2k%20folowers-black?logo=github)](https://github.com/Vedal987)
 [![](https://dcbadge.vercel.app/api/shield/789492161581416478?style=flat)](https://discord.com/users/789492161581416478)
 [![](https://dcbadge.vercel.app/api/server/neurosama?style=flat)](https://discord.gg/neurosama)
+![](https://img.shields.io/badge/Active_users-6-limegreen)
+![](https://img.shields.io/badge/Test_build-failing-crimson)
 
 <p>This is a remastered version of Vedal's Neuro-sama. A full, or not full recreation.</p>
 
