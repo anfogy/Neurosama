@@ -53,4 +53,4 @@ How to install it? Simply checkout [https://anfogy.github.io/Neuro.html](https:/
 <br><br>
 If you're a nerd and interested in technical details, here's the link:<br>
 
-[Technicals-and-Full-documentation-for-nerds.md](https://youtu.be/xvFZjo5PgG0)
+[Technicals and Full documentation for nerds](https://anfogy.github.io/Tech-details-and-docs.html)
