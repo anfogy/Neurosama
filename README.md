@@ -44,7 +44,10 @@ Idk, I just want to study it, nothing special.
 ## Introduction
 ### What is this project?
 <p>It's an remastered version of Neuro-sama! Simple as that.</p>
+
 How to install it? Simply checkout [https://anfogy.github.io/Neuro.html](https://youtu.be/xvFZjo5PgG0) for video guide!
-<br><br><br>
+
+<br><br>
 If you're a nerd and interested in technical details, here's the link:<br>
+
 [Technicals-and-Full-documentation-for-nerds.md](https://youtu.be/xvFZjo5PgG0)
